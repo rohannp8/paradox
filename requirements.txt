@@ -1,8 +1,10 @@
+crewai
+langchain-openai
+openai
+firebase-admin
 opencv-python
 ultralytics
 mediapipe
-numpy
 SpeechRecognition
-pyaudio
 geocoder
 requests
